@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.0.0-rc3-dev-2-g101b68b61)")
+(kicad_pcb (version 20171130) (host pcbnew "(5.0.0-rc3-dev-1-g99413bd05)")
 
   (general
     (thickness 1.6)
@@ -10,6 +10,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "HP34401a DMM OLED mod")
+    (rev A)
+    (company OpenScopeProject)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -34,7 +40,7 @@
   )
 
   (setup
-    (last_trace_width 0.8)
+    (last_trace_width 0.24)
     (user_trace_width 0.24)
     (user_trace_width 0.25)
     (user_trace_width 0.5)
@@ -2292,7 +2298,7 @@
   (segment (start 61 50.146447) (end 63.100862 52.247309) (width 0.24) (layer B.Cu) (net 42))
   (segment (start 61 48.66) (end 61 50.146447) (width 0.24) (layer B.Cu) (net 42))
 
-  (zone (net 2) (net_name +3V3) (layer F.Cu) (tstamp 5B5650BB) (hatch edge 0.508)
+  (zone (net 2) (net_name +3V3) (layer F.Cu) (tstamp 5B565692) (hatch edge 0.508)
     (connect_pads (clearance 0.24))
     (min_thickness 0.25)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -2516,7 +2522,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5B5650B8) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5B56568F) (hatch edge 0.508)
     (connect_pads (clearance 0.24))
     (min_thickness 0.25)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
