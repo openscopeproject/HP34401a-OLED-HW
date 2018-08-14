@@ -8,10 +8,10 @@ This board was designed in KiCad 5 and uses exclusively standard KiCad libraries
 
 # PCB render
 
-![pcb render](https://github.com/openscopeproject/HP34401a-OLED-HW/render.png)
+![pcb render](https://github.com/openscopeproject/HP34401a-OLED-HW/raw/master/render.png)
 
 ----
 
 # Schematic
 
-![schematic](https://github.com/openscopeproject/HP34401a-OLED-HW/schematic.png)
+![schematic](https://github.com/openscopeproject/HP34401a-OLED-HW/raw/master/schematic.png)
