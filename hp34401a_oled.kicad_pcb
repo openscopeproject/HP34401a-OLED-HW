@@ -14,6 +14,8 @@
     (title "HP34401a DMM OLED mod")
     (rev A)
     (company OpenScopeProject)
+    (comment 3 "Released as open source hardware")
+    (comment 4 "Licensed under CERN Open Hardware Licence v1.2 ")
   )
 
   (layers

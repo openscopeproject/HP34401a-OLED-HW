@@ -7,12 +7,12 @@ encoding utf-8
 Sheet 1 1
 Title "HP34401A dmm OLED front panel display mod"
 Date ""
-Rev ""
-Comp ""
+Rev "A"
+Comp "OpenScopeProject"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Released as open source hardware"
+Comment4 "Licensed under CERN Open Hardware Licence v1.2 "
 $EndDescr
 $Comp
 L MCU_ST_STM32F1:STM32F103C8Tx U1
